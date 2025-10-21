@@ -1,7 +1,7 @@
 # Laravel Learning Project
 
 A personal project built to practice and explore Laravel's core features, including routing, controllers, Eloquent ORM, and Blade templating.  
-This project uses **Laravel 11**, **MySQL**, and **Tailwind CSS** for the frontend.
+This project uses **Laravel 12**, **MySQL**, and **Tailwind CSS** for the frontend.
 
 ---
 
